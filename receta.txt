@@ -1,4 +1,4 @@
-Hola Vicki! Estoy modificando tu archivo 
+Hola Male! Estoy modificando tu archivo 
 
 Ingredientes
 
@@ -6,3 +6,4 @@ Ingredientes
 * Dulce de leche
 * Queso crema 
 * Café
+* Granas de colores (para decorar)
